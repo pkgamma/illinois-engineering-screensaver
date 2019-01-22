@@ -38,3 +38,5 @@ plist accordingly.
 I borrowed some code from [liquidx's
 webviewscreensaver](https://github.com/liquidx/webviewscreensaver/), so mad
 propz.
+
+-new
