@@ -4,4 +4,4 @@ This is a simple screensaver for Mac that shows the latest news & updates at U o
 
 ## How to Install
 
-// TODO
+Simply run `https://github.com/pkgamma/illinois-engineering-screensaver.git` in the terminal and double click on the `IllinoisEngrScreenSaver.saver` file in the cloned directory to install the screensaver.
